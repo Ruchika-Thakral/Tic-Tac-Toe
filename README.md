@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
- author - Areebah Zafar
+# Tic-Tac-Toe Game
+ author - Areebah Zafar 
